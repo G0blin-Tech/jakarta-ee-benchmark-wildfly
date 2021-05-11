@@ -8,5 +8,5 @@ The benchmark should be used along with Wildfly.
 ## build: <br>
 <code>mvn clean package</code>
 
-## run: <br>
+## deploy: <br>
 <code>mvn deploy:wildfly</code>
